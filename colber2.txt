@@ -1,0 +1,2 @@
+This is another new file for the second test of my manual Jenkins job.
+Mike
